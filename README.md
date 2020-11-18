@@ -3,10 +3,6 @@
 # Watson Personality Insights
 Aplicación que simula una herramienta que ayuda a pronosticar las características, las necesidades y los valores de la personalidad por medio de textos escritos. Ayuda a comprender los hábitos y las preferencias de los clientes a nivel individual y a escala.
 
-![IBM Cloud powered][img-ibmcloud-powered]][url-ibmcloud]
-
-![Demo Personality Insights][img-demopi]][url-demopi]
-
 ## Requisitos
 
 * Cuenta de [IBM Cloud][url-IBMCLOUD]
