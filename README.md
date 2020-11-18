@@ -5,11 +5,9 @@ Aplicación que simula una herramienta que ayuda a pronosticar las característi
 
 ## Requisitos
 
-* Cuenta de [IBM Cloud][url-IBMCLOUD]
-* Instalar [CLI de IBM Cloud][url-CLI-IBMCLOUD] 
-* Cuenta en [GitHub][url-github-join]
-* Instalar [CLI de GitHub][url-github-cli] o instalar [GitHub Desktop][url-githubdesktop]
-* [NodeJS][url-node]
+* Cuenta de IBM Cloud.
+* Cuenta en GitHub.
+* NodeJS.
 * Utilizar browser.
 
 
@@ -22,7 +20,7 @@ bash
 npm install
 npm start
 ```
-Usa el link (Localhost)[http://localhost:8080] para cargar la aplicacion web en el navegador.
+Usa el link [Localhost](http://localhost:8080) para cargar la aplicacion web en el navegador.
 
 # Datos importantes
 
