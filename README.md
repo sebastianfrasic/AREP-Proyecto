@@ -11,7 +11,7 @@ Aplicación que simula una herramienta que ayuda a pronosticar las característi
 * Utilizar browser.
 
 
-## Ejecucion local
+## Ejecución local
 
 Ejecuta los siguientes comandos en la terminal, en la carpeta clonada:
 
@@ -32,16 +32,13 @@ Ya que se haga el llenado del formulario, nos pasara a la siguiente donde nos mo
 * Menos de 600 palabras generan un aviso, pero el servicio sigue analizando la entrada.
 * Menos de 100 palabras generan un error.
 
-## Reviewed
+## Profesor
 
 Luis Daniel Benavides Navarro
 
-## Authors
+## Autores
 
 * **Juan Sebastián Frásica Galeano** - [PurpleBooth](https://github.com/sebastianfrasic)
 * **Carlos Julián Gómez Ardila** - [PurpleBooth](https://github.com/CarlosGomez380)
 * **Maria Fernanda Hernandez Vargas** - [PurpleBooth](https://github.com/mariahv9)
 
-
-
-Students of Systems Engineering of Escuela Colombiana de Ingenieria Julio Garavito 
